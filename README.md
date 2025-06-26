@@ -1,2 +1,4 @@
 # EDA_Automation_-Mistral
-An interactive Gradio app for automated EDA on CSV files. It handles missing data, summarizes stats, generates visualizations, and uses Mistral-7B via Ollama to provide AI-powered insights. Ideal for data scientists, analysts, and students for quick data understanding.
+An interactive Gradio app for automated EDA on CSV files. It handles missing data, summarizes statistics, generates visualizations, and utilizes Mistral-7B via Ollama to provide AI-powered insights—ideal for data scientists, analysts, and students seeking quick data understanding.
+
+This interactive Gradio app automates Exploratory Data Analysis (EDA) for any uploaded CSV file using Python and AI. It intelligently handles missing values, summarizes the dataset with descriptive statistics, and generates insightful visualizations such as histograms and correlation heatmaps. Powered by the Mistral-7B language model via Ollama, it also provides natural language insights based on the data summary. Whether you're a data scientist, student, or analyst, this tool offers a quick and intuitive way to understand your data with minimal effort.
